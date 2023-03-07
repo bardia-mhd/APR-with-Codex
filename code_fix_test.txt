@@ -1,0 +1,156 @@
+> Task :crtTest
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_0 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:8
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_1 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:14
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_3 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:26
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_4 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:32
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_5 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:38
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_6 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:44
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_7 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:50
+
+java_testcases.junit.crt_program.LCS_LENGTH_TEST > test_8 FAILED
+    java.lang.AssertionError at LCS_LENGTH_TEST.java:56
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_10 FAILED
+    java.lang.StackOverflowError at Arrays.java:3742
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_11 FAILED
+    java.lang.StackOverflowError at Arrays.java:3742
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_12 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_0 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_1 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_2 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_3 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_4 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_5 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_6 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_7 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_8 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MERGESORT_TEST > test_9 FAILED
+    java.lang.StackOverflowError at ArrayList.java:670
+
+java_testcases.junit.crt_program.MINIMUM_SPANNING_TREE_TEST > test1 FAILED
+    java.lang.AssertionError at MINIMUM_SPANNING_TREE_TEST.java:45
+
+java_testcases.junit.crt_program.MINIMUM_SPANNING_TREE_TEST > test2 FAILED
+    java.lang.AssertionError at MINIMUM_SPANNING_TREE_TEST.java:82
+
+java_testcases.junit.crt_program.NEXT_PALINDROME_TEST > test_4 FAILED
+    org.junit.ComparisonFailure at NEXT_PALINDROME_TEST.java:37
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_0 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:7
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_1 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:13
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_2 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:19
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_3 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:25
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_4 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:31
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_5 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:37
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_6 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:43
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_7 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:49
+
+java_testcases.junit.crt_program.POSSIBLE_CHANGE_TEST > test_8 FAILED
+    java.lang.ArrayIndexOutOfBoundsException at POSSIBLE_CHANGE_TEST.java:55
+
+java_testcases.junit.crt_program.POWERSET_TEST > test_0 FAILED
+    org.junit.ComparisonFailure at POWERSET_TEST.java:9
+
+java_testcases.junit.crt_program.POWERSET_TEST > test_1 FAILED
+    org.junit.ComparisonFailure at POWERSET_TEST.java:16
+
+java_testcases.junit.crt_program.POWERSET_TEST > test_2 FAILED
+    org.junit.ComparisonFailure at POWERSET_TEST.java:23
+
+java_testcases.junit.crt_program.POWERSET_TEST > test_4 FAILED
+    org.junit.ComparisonFailure at POWERSET_TEST.java:37
+
+java_testcases.junit.crt_program.QUICKSORT_TEST > test_1 FAILED
+    org.junit.ComparisonFailure at QUICKSORT_TEST.java:16
+
+java_testcases.junit.crt_program.SHORTEST_PATH_LENGTH_TEST > test1 FAILED
+    java.lang.AssertionError at SHORTEST_PATH_LENGTH_TEST.java:47
+
+java_testcases.junit.crt_program.SHORTEST_PATH_LENGTH_TEST > test2 FAILED
+    java.lang.AssertionError at SHORTEST_PATH_LENGTH_TEST.java:56
+
+java_testcases.junit.crt_program.WRAP_TEST > test_0 FAILED
+    org.junit.ComparisonFailure at WRAP_TEST.java:9
+
+java_testcases.junit.crt_program.WRAP_TEST > test_1 FAILED
+    org.junit.ComparisonFailure at WRAP_TEST.java:16
+
+java_testcases.junit.crt_program.WRAP_TEST > test_2 FAILED
+    org.junit.ComparisonFailure at WRAP_TEST.java:23
+
+java_testcases.junit.crt_program.WRAP_TEST > test_3 FAILED
+    org.junit.ComparisonFailure at WRAP_TEST.java:30
+
+java_testcases.junit.crt_program.WRAP_TEST > test_4 FAILED
+    org.junit.ComparisonFailure at WRAP_TEST.java:37
+
+260 tests completed, 45 failed, 1 skipped
+
+> Task :crtTest FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':crtTest'.
+> There were failing tests. See the report at: file:///Users/bardia/Downloads/QuixBugs/build/reports/tests/crtTest/index.html
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 3s
+3 actionable tasks: 2 executed, 1 up-to-date
